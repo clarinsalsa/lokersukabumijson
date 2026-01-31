@@ -9,6 +9,9 @@
             "show_banner": true,
             "one_signal_id": "7c3f45fa-95f8-4628-85eb-fd2282e1b1d8",
             "about": "Lokersmi.co.id adalah website loker di Sukabumi yang menyajikan informasi lowongan kerja terbaru dan terpercaya untuk lulusan SD, SMP, SMA/SMK, hingga D3 dan S1 dari berbagai bidang pekerjaan."
+            "adsblock_text":"Kami mendeteksi AdBlock atau DNS pemblokir iklan aktif di perangkat Anda. Mohon nonaktifkan agar aplikasi dapat berjalan normal.",
+           "adsblock_button":"Tutup Aplikasi"
+            
         }
     ],
     "menu": [
